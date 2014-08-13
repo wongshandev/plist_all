@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://sel.suieliao.com:8080/softphone/sel.ipa</string>
+					<string>http://121.199.47.145:8080/softphone/sel.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://sel.suieliao.com:8080/softphone/iphone.png</string>
+					<string>http://121.199.47.145:8080/softphone/iphone.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://sel.suieliao.com:8080/softphone/iphone.png</string>
+					<string>http://121.199.47.145:8080/softphone/iphone.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
