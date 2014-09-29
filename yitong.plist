@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ytttt.net/yitong.ipa</string>
+					<string>http://117.135.132.78:8080/softphone/yitong.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://ytttt.net/icon.png</string>
+					<string>http://117.135.132.78:8080/softphone/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://ytttt.net/icon.png</string>
+					<string>http://117.135.132.78:8080/softphone/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,9 +39,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>亿通电�?/string>
+				<string>亿通电话</string>
 				<key>title</key>
-				<string>亿通电�?/string>
+				<string>亿通电话</string>
 			</dict>
 		</dict>
 	</array>
