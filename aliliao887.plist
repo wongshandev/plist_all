@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://al-liliao.qiniudn.com/aliliao887/aliliao887v1.0.ipa</string>
+					<string>http://iosvoipapp.qiniudn.com/aliliao887/aliliao887v1.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://al-liliao.qiniudn.com/icon.png</string>
+					<string>http://iosvoipapp.qiniudn.com/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://al-liliao.qiniudn.com/icon.png</string>
+					<string>http://iosvoipapp.qiniudn.com/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
