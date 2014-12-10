@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://iosvoipapp.qiniudn.com/vivipoem/vivipV1.1.ipa</string>
+					<string>http://vivipoem.qiniudn.com/vivipV1.2.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://iosvoipapp.qiniudn.com/vivipoem/icon.png</string>
+					<string>http://vivipoem.qiniudn.com/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://iosvoipapp.qiniudn.com/vivipoem/icon.png</string>
+					<string>http://vivipoem.qiniudn.com/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
