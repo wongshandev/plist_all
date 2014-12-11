@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://iosvoipapp.qiniudn.com/yxt/yingxuntongv1.0.ipa</string>
+					<string>http://98pt.com:8080/softphone/yxt.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://iosvoipapp.qiniudn.com/yxt/icon.png</string>
+					<string>http://98pt.com:8080/softphone/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,15 +27,15 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://iosvoipapp.qiniudn.com/yxt/icon.png</string>
+					<string>http://98pt.com:8080/softphone/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.app.jiesunbao</string>
+				<string>com.app. tintin</string>
 				<key>bundle-version</key>
-				<string>2.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
