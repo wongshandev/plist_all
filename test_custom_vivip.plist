@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zyj.V1Project</string>
+				<string>com.wongshan.inhouse</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
