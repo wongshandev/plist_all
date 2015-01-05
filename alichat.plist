@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://al-liliao.qiniudn.com/alichat.ipa</string>
+					<string>http://al-liliao.qiniudn.com/alichatV1.5.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.app.alichat</string>
+				<string>com.wongshan.ydiant</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
