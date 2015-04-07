@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://7q5fk0.com1.z0.glb.clouddn.com/jiaxintong/jiaxintong.ipa</string>
+					<string>http://7q5fk0.com1.z0.glb.clouddn.com/jiaxintong/jiaxintongv2.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.app.jiaxintong</string>
+				<string>com.wongshan.maikailong</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
